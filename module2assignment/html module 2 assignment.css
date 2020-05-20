@@ -55,7 +55,7 @@ background-color: #F2F2F2;
   border: 1px solid black;
   margin: 15px;
    height: 250px;
-   
+   overflow-wrap: break-word;
 
 
   }
@@ -65,7 +65,7 @@ background-color: #F2F2F2;
   text-align: left;
     
     font-family:  Helvetica;
-  
+  clear: both;
 }
 
 
