@@ -56,8 +56,11 @@ background-color: #F2F2F2;
   margin: 15px;
    height: 250px;
    overflow-wrap: break-word;
+<<<<<<< HEAD
 
    
+=======
+>>>>>>> c17a1a23e867c5c40c51487c3785644a04b45ae3
 
 
   }
@@ -65,10 +68,15 @@ background-color: #F2F2F2;
   .text{
   margin: 30px 10px 10px 10px;
   text-align: left;
+<<<<<<< HEAD
     
     font-family:  Helvetica;
     clear: both;
   
+=======
+     font-family:  Helvetica;
+  clear: both;
+>>>>>>> c17a1a23e867c5c40c51487c3785644a04b45ae3
 }
 
 
